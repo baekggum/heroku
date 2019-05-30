@@ -1,1 +1,1 @@
-web: gunicorn LikeLion-master.wsgi --log-file -
+web: gunicorn pro.wsgi --log-file -
