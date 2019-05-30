@@ -1,0 +1,1 @@
+web: gunicorn LikeLion-master.wsgi --log-file -
